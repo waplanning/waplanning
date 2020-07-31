@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Types of Trusts
+title: Other types of trusts
 permalink: /other/
 nav_order: 5
 has_children: false
