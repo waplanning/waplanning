@@ -9,7 +9,7 @@ permalink: /choosing/
 <h2> How do I choose a lawyer? </h2>
 
 Finding and choosing a lawyer may seem intimidating, but it really only requires a few steps. 
-1. Shortlist referrals gathered from friends, online forums, or the state bar website;
+1. Shortlist referrals gathered from friends, online forums, or the [state bar website](https://www.mywsba.org/PersonifyEbusiness/Default.aspx?TabID=1536&ShowSearchResults=TRUE&FirstName=&LastName=&AreaOfPractice=Estate+Planning-Probate);
 2. Conduct a rough search of your candidates on the internet, look for red flags; and
 3. Send each lawyer a short email. 
 

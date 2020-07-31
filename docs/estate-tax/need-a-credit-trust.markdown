@@ -7,7 +7,7 @@ permalink: /need-a-credit-trust/
 ---
 
 <h2>Do I really need a credit trust? It sounds too complicated. </h2>
-The following example from Evergreen Small Business may convince you of the benefits of a credit trust:
+The following [example](https://evergreensmallbusiness.com/washington-estate-tax-tips-to-save-thousands/) from Evergreen Small Business may convince you of the benefits of a credit trust:
 
 > **Example 1 (the “wrong way”):** Mary and Joe are married, and each have exactly $2,193,000 in assets, for a total marital estate of  $4,386,000. When Joe dies he gives Mary his $2,193,000, when Mary later dies her estate equals $4,386,000.  Only the first $2,193,000 of Mary’s estate is exempt from the Washington estate tax, however. The estate tax on the remaining $2,193,000 equals roughly $270,000.
 
