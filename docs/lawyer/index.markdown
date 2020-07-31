@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Choosing and working with a lawyer
+title: Working with a lawyer
 permalink: /lawyer/
 nav_order: 3
 has_children: true

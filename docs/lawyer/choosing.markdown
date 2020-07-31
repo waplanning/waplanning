@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Choosing a lawyer
-parent: Choosing and working with a lawyer
+parent: Working with a lawyer
 nav_order: 2
 permalink: /choosing/
 ---

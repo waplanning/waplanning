@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Do I need a lawyer? 
-parent: Choosing and working with a lawyer
+parent: Working with a lawyer
 nav_order: 1
 permalink: /do-i-need/
 ---

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Working with a lawyer
-parent: Choosing and working with a lawyer
+title: Information gathering
+parent: Working with a lawyer
 nav_order: 3
-permalink: /working/
+permalink: /information/
 ---
 
 <h2> What information should I gather before meeting with a lawyer?   </h2>
