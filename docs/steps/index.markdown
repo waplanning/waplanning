@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Steps After signing
+title: Steps after signing
 permalink: /steps/
 nav_order: 6
 has_children: true

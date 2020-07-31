@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Updating your estate plan
-parent: Steps After signing
+parent: Steps after signing
 nav_order: 2
 permalink: /update/
 ---
